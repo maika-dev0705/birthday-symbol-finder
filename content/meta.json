@@ -1,0 +1,18 @@
+﻿{
+  "appName": "BirthSymbol Index",
+  "heroSubtitle": "誕生花、誕生石、誕生色などの誕生○を一括で閲覧したり、キーワードに合う誕生日を提案します。",
+  "aiNotice": "AIで文や単語を解析して検索します。入力内容は学習に使いません。",
+  "categories": [
+    { "key": "flower", "label": "誕生花" },
+    { "key": "stone", "label": "誕生石" },
+    { "key": "stone_monthly", "label": "月の誕生石" },
+    { "key": "color", "label": "誕生色" },
+    { "key": "tree", "label": "誕生木" },
+    { "key": "bird", "label": "誕生鳥" },
+    { "key": "fish", "label": "誕生魚" },
+    { "key": "alcohol", "label": "誕生酒" },
+    { "key": "sushi", "label": "誕生鮨" },
+    { "key": "fruit", "label": "誕生果" },
+    { "key": "star", "label": "誕生星" }
+  ]
+}

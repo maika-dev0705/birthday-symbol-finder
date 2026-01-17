@@ -1,0 +1,93 @@
+{
+  "flower": [
+    "https://pixabay.com/photos/lily-flower-plant-petals-6142496/",
+    "https://pixabay.com/photos/sunflowers-windmill-field-farm-1853323/",
+    "https://pixabay.com/photos/lavender-flower-blossoms-4765498/",
+    "https://pixabay.com/photos/larkspur-delphinium-spike-170234/",
+    "https://pixabay.com/photos/plant-nature-petal-summer-blooming-3301020/",
+    "https://pixabay.com/photos/cherry-blossoms-tree-branch-7766587/",
+    "https://pixabay.com/photos/anemone-purple-spring-flower-bloom-4890736/",
+    "https://pixabay.com/photos/crocus-flowers-field-bloom-blossom-1261310/",
+    "https://pixabay.com/photos/hydrangeas-flowers-garden-blossom-7065907/",
+    "https://pixabay.com/photos/flowers-daisies-pink-flowers-7699293/"
+  ],
+  "stone": [
+    "https://pixabay.com/photos/sapphire-stone-precious-jewel-gem-1433293/",
+    "https://pixabay.com/photos/citrine-gemstone-yellow-red-fire-7433806/",
+    "https://pixabay.com/photos/peridot-gemstone-jewellery-polished-1689938/",
+    "https://pixabay.com/photos/nature-crystal-desktop-closeup-3287629/",
+    "https://pixabay.com/photos/diamond-diamonds-gem-gemstone-ruby-3185447/",
+    "https://pixabay.com/photos/diamond-jewellery-jewelry-gem-4073751/",
+    "https://pixabay.com/photos/gems-jewelry-rubies-jewel-3418293/",
+    "https://pixabay.com/photos/blue-nature-crystal-mineral-7631674/",
+    "https://pixabay.com/photos/amethyst-crystal-gemstone-purple-7552587/"
+  ],
+  "color": [],
+  "tree": [
+    "https://pixabay.com/photos/winter-snow-trees-frost-9168141/",
+    "https://pixabay.com/photos/palm-trees-tropical-summer-trees-3619180/",
+    "https://pixabay.com/photos/english-walnut-fruits-branch-fall-3750018/",
+    "https://pixabay.com/photos/forest-trees-sun-rays-sunlight-fog-1072828/",
+    "https://pixabay.com/photos/field-trees-nature-sunset-4452538/",
+    "https://pixabay.com/photos/forest-woods-lake-trees-leaves-5597499/",
+    "https://pixabay.com/photos/parthenocissus-quinquefolia-autumn-3734811/",
+    "https://pixabay.com/photos/tree-big-beech-natural-monument-5128763/"
+  ],
+  "bird": [
+    "https://pixabay.com/photos/bird-flamingo-water-plumage-family-5154150/",
+    "https://pixabay.com/photos/blue-jay-bird-winter-snow-animal-7011276/",
+    "https://pixabay.com/photos/toucan-zoo-bird-beak-nature-color-4998827/",
+    "https://pixabay.com/photos/greylag-geese-geese-birds-3526503/",
+    "https://pixabay.com/photos/bird-kingfisher-waterfowl-beak-8310172/",
+    "https://pixabay.com/photos/ducks-geese-meadow-river-bank-5820051/",
+    "https://pixabay.com/photos/penguins-falkland-islands-nest-5414467/",
+    "https://pixabay.com/photos/geese-birds-flock-wildlife-flying-1990202/",
+    "https://pixabay.com/photos/great-spotted-woodpecker-woodpecker-5261220/"
+  ],
+  "fish": [
+    "https://pixabay.com/photos/underwater-coral-fish-sea-reef-5310424/",
+    "https://pixabay.com/photos/animal-aquarium-aquatic-coral-deep-21668/",
+    "https://pixabay.com/photos/fish-octopus-water-aquarium-1633525/",
+    "https://pixabay.com/photos/whale-shark-shark-aquarium-water-281498/",
+    "https://pixabay.com/photos/fish-underwater-corals-sea-ocean-378286/",
+    "https://pixabay.com/photos/coral-polyp-aquarium-3454425/",
+    "https://pixabay.com/photos/jellyfish-aquarium-1640530/"
+  ],
+  "alcohol": [
+    "https://pixabay.com/photos/drink-drinks-cocktail-cup-glass-4188627/",
+    "https://pixabay.com/photos/margarita-cocktail-cold-drink-bar-1839361/",
+    "https://pixabay.com/photos/alcohol-cocktail-cocktail-glass-1850038/",
+    "https://pixabay.com/photos/cocktail-drink-bar-refreshment-6754239/",
+    "https://pixabay.com/photos/juice-cocktail-drinks-refreshment-6950672/",
+    "https://pixabay.com/photos/cocktail-mojito-alcohol-drink-6692791/",
+    "https://pixabay.com/photos/drink-cocktail-glass-beverage-bar-4188629/",
+    "https://pixabay.com/photos/drink-alcohol-cocktail-bar-7792428/"
+  ],
+  "sushi": [
+    "https://pixabay.com/photos/sushi-japanese-asian-food-raw-354628/",
+    "https://pixabay.com/photos/sushi-japanese-salmon-eel-episode-1958247/",
+    "https://pixabay.com/photos/japanese-cuisine-dish-sushi-salmon-6861681/",
+    "https://pixabay.com/photos/sushi-fish-tuna-rolls-food-japan-7460998/",
+    "https://pixabay.com/photos/sushi-japanese-food-fish-japan-5183789/",
+    "https://pixabay.com/photos/sushi-food-asia-eat-seafood-5364661/"
+  ],
+  "fruit": [
+    "https://pixabay.com/photos/dragon-fruit-fruits-food-pitaya-6865393/",
+    "https://pixabay.com/photos/fruit-star-fruit-healthy-organic-6677290/",
+    "https://pixabay.com/photos/lime-citrus-fruit-green-summer-374216/",
+    "https://pixabay.com/photos/berries-blueberries-raspberries-1493905/",
+    "https://pixabay.com/photos/bananas-tropical-fruits-fruit-3474872/",
+    "https://pixabay.com/photos/grapes-fruit-cluster-grape-5889697/",
+    "https://pixabay.com/photos/strawberries-berry-fruit-close-up-823782/",
+    "https://pixabay.com/photos/lime-lime-slices-lemons-2481358/"
+  ],
+  "star": [
+    "https://pixabay.com/photos/lighthouse-starry-sky-universe-6785763/",
+    "https://pixabay.com/photos/stars-sky-milky-way-galaxy-1869447/",
+    "https://pixabay.com/photos/constellations-galaxy-stars-sky-2609647/",
+    "https://pixabay.com/photos/astronomy-bright-constellation-dark-1867616/",
+    "https://pixabay.com/photos/lagoon-nebula-messier-8-ngc-6523-11143/",
+    "https://pixabay.com/photos/galaxy-space-universe-night-sky-11098/",
+    "https://pixabay.com/photos/galaxy-starry-sky-stars-ngc-4414-11139/"
+  ]
+}

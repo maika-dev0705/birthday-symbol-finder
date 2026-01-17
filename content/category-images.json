@@ -1,0 +1,380 @@
+{
+  "flower": [
+    {
+      "src": "/images/categories/flower/flower-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lily-flower-plant-petals-6142496/"
+    },
+    {
+      "src": "/images/categories/flower/flower-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sunflowers-windmill-field-farm-1853323/"
+    },
+    {
+      "src": "/images/categories/flower/flower-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lavender-flower-blossoms-4765498/"
+    },
+    {
+      "src": "/images/categories/flower/flower-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/larkspur-delphinium-spike-170234/"
+    },
+    {
+      "src": "/images/categories/flower/flower-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/plant-nature-petal-summer-blooming-3301020/"
+    },
+    {
+      "src": "/images/categories/flower/flower-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/cherry-blossoms-tree-branch-7766587/"
+    },
+    {
+      "src": "/images/categories/flower/flower-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/anemone-purple-spring-flower-bloom-4890736/"
+    },
+    {
+      "src": "/images/categories/flower/flower-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/crocus-flowers-field-bloom-blossom-1261310/"
+    },
+    {
+      "src": "/images/categories/flower/flower-09.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/hydrangeas-flowers-garden-blossom-7065907/"
+    },
+    {
+      "src": "/images/categories/flower/flower-10.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/flowers-daisies-pink-flowers-7699293/"
+    }
+  ],
+  "stone": [
+    {
+      "src": "/images/categories/stone/stone-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sapphire-stone-precious-jewel-gem-1433293/"
+    },
+    {
+      "src": "/images/categories/stone/stone-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/citrine-gemstone-yellow-red-fire-7433806/"
+    },
+    {
+      "src": "/images/categories/stone/stone-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/peridot-gemstone-jewellery-polished-1689938/"
+    },
+    {
+      "src": "/images/categories/stone/stone-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/nature-crystal-desktop-closeup-3287629/"
+    },
+    {
+      "src": "/images/categories/stone/stone-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/diamond-diamonds-gem-gemstone-ruby-3185447/"
+    },
+    {
+      "src": "/images/categories/stone/stone-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/diamond-jewellery-jewelry-gem-4073751/"
+    },
+    {
+      "src": "/images/categories/stone/stone-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/gems-jewelry-rubies-jewel-3418293/"
+    },
+    {
+      "src": "/images/categories/stone/stone-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/blue-nature-crystal-mineral-7631674/"
+    },
+    {
+      "src": "/images/categories/stone/stone-09.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/amethyst-crystal-gemstone-purple-7552587/"
+    }
+  ],
+  "tree": [
+    {
+      "src": "/images/categories/tree/tree-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/winter-snow-trees-frost-9168141/"
+    },
+    {
+      "src": "/images/categories/tree/tree-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/palm-trees-tropical-summer-trees-3619180/"
+    },
+    {
+      "src": "/images/categories/tree/tree-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/english-walnut-fruits-branch-fall-3750018/"
+    },
+    {
+      "src": "/images/categories/tree/tree-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/forest-trees-sun-rays-sunlight-fog-1072828/"
+    },
+    {
+      "src": "/images/categories/tree/tree-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/field-trees-nature-sunset-4452538/"
+    },
+    {
+      "src": "/images/categories/tree/tree-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/forest-woods-lake-trees-leaves-5597499/"
+    },
+    {
+      "src": "/images/categories/tree/tree-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/parthenocissus-quinquefolia-autumn-3734811/"
+    },
+    {
+      "src": "/images/categories/tree/tree-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/tree-big-beech-natural-monument-5128763/"
+    }
+  ],
+  "bird": [
+    {
+      "src": "/images/categories/bird/bird-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/bird-flamingo-water-plumage-family-5154150/"
+    },
+    {
+      "src": "/images/categories/bird/bird-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/blue-jay-bird-winter-snow-animal-7011276/"
+    },
+    {
+      "src": "/images/categories/bird/bird-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/toucan-zoo-bird-beak-nature-color-4998827/"
+    },
+    {
+      "src": "/images/categories/bird/bird-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/greylag-geese-geese-birds-3526503/"
+    },
+    {
+      "src": "/images/categories/bird/bird-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/bird-kingfisher-waterfowl-beak-8310172/"
+    },
+    {
+      "src": "/images/categories/bird/bird-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/ducks-geese-meadow-river-bank-5820051/"
+    },
+    {
+      "src": "/images/categories/bird/bird-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/penguins-falkland-islands-nest-5414467/"
+    },
+    {
+      "src": "/images/categories/bird/bird-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/geese-birds-flock-wildlife-flying-1990202/"
+    },
+    {
+      "src": "/images/categories/bird/bird-09.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/great-spotted-woodpecker-woodpecker-5261220/"
+    }
+  ],
+  "fish": [
+    {
+      "src": "/images/categories/fish/fish-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/underwater-coral-fish-sea-reef-5310424/"
+    },
+    {
+      "src": "/images/categories/fish/fish-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/animal-aquarium-aquatic-coral-deep-21668/"
+    },
+    {
+      "src": "/images/categories/fish/fish-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/fish-octopus-water-aquarium-1633525/"
+    },
+    {
+      "src": "/images/categories/fish/fish-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/whale-shark-shark-aquarium-water-281498/"
+    },
+    {
+      "src": "/images/categories/fish/fish-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/fish-underwater-corals-sea-ocean-378286/"
+    },
+    {
+      "src": "/images/categories/fish/fish-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/coral-polyp-aquarium-3454425/"
+    },
+    {
+      "src": "/images/categories/fish/fish-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/jellyfish-aquarium-1640530/"
+    }
+  ],
+  "alcohol": [
+    {
+      "src": "/images/categories/alcohol/alcohol-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/drink-drinks-cocktail-cup-glass-4188627/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/margarita-cocktail-cold-drink-bar-1839361/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/alcohol-cocktail-cocktail-glass-1850038/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/cocktail-drink-bar-refreshment-6754239/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/juice-cocktail-drinks-refreshment-6950672/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/cocktail-mojito-alcohol-drink-6692791/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/drink-cocktail-glass-beverage-bar-4188629/"
+    },
+    {
+      "src": "/images/categories/alcohol/alcohol-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/drink-alcohol-cocktail-bar-7792428/"
+    }
+  ],
+  "sushi": [
+    {
+      "src": "/images/categories/sushi/sushi-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sushi-japanese-asian-food-raw-354628/"
+    },
+    {
+      "src": "/images/categories/sushi/sushi-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sushi-japanese-salmon-eel-episode-1958247/"
+    },
+    {
+      "src": "/images/categories/sushi/sushi-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/japanese-cuisine-dish-sushi-salmon-6861681/"
+    },
+    {
+      "src": "/images/categories/sushi/sushi-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sushi-fish-tuna-rolls-food-japan-7460998/"
+    },
+    {
+      "src": "/images/categories/sushi/sushi-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sushi-japanese-food-fish-japan-5183789/"
+    },
+    {
+      "src": "/images/categories/sushi/sushi-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/sushi-food-asia-eat-seafood-5364661/"
+    }
+  ],
+  "fruit": [
+    {
+      "src": "/images/categories/fruit/fruit-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/dragon-fruit-fruits-food-pitaya-6865393/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/fruit-star-fruit-healthy-organic-6677290/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lime-citrus-fruit-green-summer-374216/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/berries-blueberries-raspberries-1493905/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/bananas-tropical-fruits-fruit-3474872/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/grapes-fruit-cluster-grape-5889697/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/strawberries-berry-fruit-close-up-823782/"
+    },
+    {
+      "src": "/images/categories/fruit/fruit-08.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lime-lime-slices-lemons-2481358/"
+    }
+  ],
+  "star": [
+    {
+      "src": "/images/categories/star/star-01.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lighthouse-starry-sky-universe-6785763/"
+    },
+    {
+      "src": "/images/categories/star/star-02.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/stars-sky-milky-way-galaxy-1869447/"
+    },
+    {
+      "src": "/images/categories/star/star-03.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/constellations-galaxy-stars-sky-2609647/"
+    },
+    {
+      "src": "/images/categories/star/star-04.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/astronomy-bright-constellation-dark-1867616/"
+    },
+    {
+      "src": "/images/categories/star/star-05.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/lagoon-nebula-messier-8-ngc-6523-11143/"
+    },
+    {
+      "src": "/images/categories/star/star-06.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/galaxy-space-universe-night-sky-11098/"
+    },
+    {
+      "src": "/images/categories/star/star-07.webp",
+      "photographer": "",
+      "source": "https://pixabay.com/photos/galaxy-starry-sky-stars-ngc-4414-11139/"
+    }
+  ]
+}

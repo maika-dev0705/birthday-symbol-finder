@@ -1,0 +1,8 @@
+﻿node_modules
+.next
+.env.local
+.env
+.DS_Store
+__pycache__/
+*.pyc
+content/embeddings.json
