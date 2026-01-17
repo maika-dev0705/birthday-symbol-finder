@@ -970,20 +970,33 @@ textarea {
   }
 
   .support-tabs {
-    flex-wrap: nowrap;
-    gap: 24px;
-    justify-content: flex-start;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-  }
-
-  .support-tabs::-webkit-scrollbar {
-    display: none;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 12px 24px;
+    justify-items: center;
+    border-bottom: none;
+    padding-bottom: 0;
   }
 
   .support-tabs .tab {
-    white-space: nowrap;
+    width: 100%;
+    text-align: center;
+    white-space: normal;
+    padding: 6px 4px 8px;
+  }
+
+  .support-tabs .tab.active::after {
+    content: "";
+    display: block;
+    height: 2px;
+    width: 70%;
+    margin: 6px auto 0;
+    border-radius: 999px;
+    background: var(--ink);
+  }
+
+  .support-tabs .tabs-indicator {
+    display: none;
   }
 
   .form-body {
