@@ -670,6 +670,7 @@ textarea {
   align-items: flex-end;
   gap: 10px;
   z-index: 20;
+  pointer-events: none;
 }
 
 .support-menu__toggle {
@@ -684,6 +685,7 @@ textarea {
   align-items: center;
   justify-content: center;
   box-shadow: 0 10px 24px rgba(0, 0, 0, 0.08);
+  pointer-events: auto;
 }
 
 .support-menu__toggle:focus-visible {
