@@ -969,6 +969,23 @@ textarea {
     padding: 48px 16px 90px;
   }
 
+  .support-tabs {
+    flex-wrap: nowrap;
+    gap: 24px;
+    justify-content: flex-start;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+
+  .support-tabs::-webkit-scrollbar {
+    display: none;
+  }
+
+  .support-tabs .tab {
+    white-space: nowrap;
+  }
+
   .form-body {
     max-width: 100%;
   }

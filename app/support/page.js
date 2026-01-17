@@ -177,7 +177,8 @@ export default function SupportPage() {
       const activeRect = active.getBoundingClientRect();
       const extra = 18;
       const width = activeRect.width + extra;
-      const left = activeRect.left - containerRect.left - extra / 2;
+      const left =
+        activeRect.left - containerRect.left - extra / 2 + container.scrollLeft;
       setIndicatorStyle({
         width: `${width}px`,
         transform: `translateX(${left}px)`,
@@ -186,9 +187,13 @@ export default function SupportPage() {
     };
 
     const raf = requestAnimationFrame(updateIndicator);
+    tabsRef.current?.addEventListener("scroll", updateIndicator, {
+      passive: true,
+    });
     window.addEventListener("resize", updateIndicator);
     return () => {
       cancelAnimationFrame(raf);
+      tabsRef.current?.removeEventListener("scroll", updateIndicator);
       window.removeEventListener("resize", updateIndicator);
     };
   }, [activeTab, isReady]);
